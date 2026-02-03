@@ -13,8 +13,8 @@ The calculator accepts user input, validates it, handles errors like divide-by-z
 
 - ➕ **Addition (+)**
 - ➖ **Subtraction (−)**
-- ✖️ **Multiplication (* or ×)**
-- ➗ **Division (/ or ÷)**
+- ✖️ **Multiplication (*)**
+- ➗ **Division (/)**
 - 🧹 **Clear function**
 - 🔄 **Simple interactive menu**
 - ✔️ **Input validation**
